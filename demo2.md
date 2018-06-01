@@ -9,12 +9,14 @@
 - 引用式链接:
 [百度一下][百度]  
 [demo1][demo1]
-
+[外部图片][pi]
 
 ---
 //下面是引用式链接
 [百度]:http://www.baidu.com
 [demo1]:demo11.md
+[pi]:https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1527833187770&di=a2f49734c2a4efb0961f3e3aa5854f25&imgtype=0&src=http%3A%2F%2Fa.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2F730e0cf3d7ca7bcb6a172486b2096b63f624a82f.jpg  
+
 
 ##图片--------------
 - ![alt](url txt)
@@ -36,7 +38,7 @@ console.info(多呆呆);
 
 行内的代码:用来申明变量
 这里的` var =10`
-
+另外一种表达的方式
 		var c=1;
 		console.info(多呆呆);
 		
